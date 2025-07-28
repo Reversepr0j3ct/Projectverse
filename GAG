@@ -1,1 +1,1 @@
-print("under developement")
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/jPQwLTg8X5S9hpb0/raw", true))()
